@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Bauer
+ * @author Ospeck
  */
 public class SistemaES extends Application {
     
